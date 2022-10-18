@@ -24,7 +24,7 @@ exports[`Layout renders correctly 1`] = `
           <span
             class="absolute transition duration-300 left-0 opacity-0 group-hover:opacity-100 text-transparent bg-clip-text hover:bg-gradient-to-r from-blue-start to-blue-stop dark:from-purple-start dark:to-purple-stop"
           >
-            Jacob Yi
+            Matthew Nguyen
           </span>
         </a>
         <nav
@@ -110,7 +110,7 @@ exports[`Layout renders correctly 1`] = `
       <span>
         © 
         2022
-         Jacob Yi
+         Matthew Nguyen
       </span>
       <ul
         class="flex gap-6"
@@ -131,7 +131,7 @@ exports[`Layout renders correctly 1`] = `
           class="w-6 h-6 opacity-70 hover:opacity-100 transition"
         >
           <a
-            href="https://www.linkedin.com/in/jacob-yi-dev"
+            href="https://www.linkedin.com/in/matthew-yi-dev"
             rel="noopener noreferrer"
             target="_blank"
             title="LinkedIn"

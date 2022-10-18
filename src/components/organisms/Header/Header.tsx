@@ -60,7 +60,7 @@ const Header = () => {
 								@jakeyi
 							</span>
 							<span className="absolute transition duration-300 left-0	 opacity-0 group-hover:opacity-100 text-transparent bg-clip-text hover:bg-gradient-to-r from-blue-start to-blue-stop dark:from-purple-start dark:to-purple-stop">
-								Jacob Yi
+								Matthew Nguyen
 							</span>
 						</motion.a>
 					</Link>

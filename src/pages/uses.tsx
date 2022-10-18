@@ -9,7 +9,7 @@ const UsesPage: NextPage = () => {
 	return (
 		<AnimatePage>
 			<SeoHead
-				title="Jacob Yi uses ..."
+				title="Matthew Nguyen uses ..."
 				description="This is a comprehensive list of tech equipment and software I use for my day-to-day work as a software engineer in the US."
 			/>
 			<Container>

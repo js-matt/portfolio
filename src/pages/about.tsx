@@ -23,12 +23,12 @@ const AboutPage: NextPage<IProps> = ({ jobs, education }) => {
 	return (
 		<AnimatePage>
 			<SeoHead
-				title="About Jacob Yi, a Senior Full Stack Engineer"
+				title="About Matthew Nguyen, a Senior Full Stack Engineer"
 				description="As a passionate full Stack Engineer, I create amazing websites and web apps to make the internet a better place."
 			/>
 			<Container>
 				<h1 className="headline text-3xl md:text-5xl lg:text-6xl mt-8">
-					Hey, I&apos;m Jacob Yi
+					Hey, I&apos;m Matthew Nguyen
 				</h1>
 				<h2 className="font-bold text-xl md:text-2xl mt-2">
 					Senior Full Stack Engineer

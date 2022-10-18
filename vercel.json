@@ -5,7 +5,7 @@
 		{ "source": "/contact", "destination": "/" },
 		{
 			"source": "/",
-			"has": [{ "type": "host", "value": "cv.jacobherper.com" }],
+			"has": [{ "type": "host", "value": "cv.matthewnguyen.com" }],
 			"destination": "/cv-2021.pdf"
 		}
 	]

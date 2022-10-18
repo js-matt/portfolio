@@ -3,7 +3,7 @@ import { SocialIcons } from 'Molecules/SocialIcons';
 const Footer = () => {
 	return (
 		<footer className="flex justify-between mt-8 md:mt-20 px-4 md:px-20 py-8">
-			<span>&copy; {new Date().getFullYear()} Jacob Yi</span>
+			<span>&copy; {new Date().getFullYear()} Matthew Nguyen</span>
 			<SocialIcons
 				profiles={[
 					{
@@ -13,7 +13,7 @@ const Footer = () => {
 					},
 					{
 						name: 'LinkedIn',
-						url: 'https://www.linkedin.com/in/jacob-yi-dev',
+						url: 'https://www.linkedin.com/in/matthew-yi-dev',
 						icon: 'LINKEDIN',
 					},
 					// {
