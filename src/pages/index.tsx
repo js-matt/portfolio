@@ -13,6 +13,8 @@ const IndexPage = () => {
 		'Jamstack',
 		'Next.js',
 		'RESTful APIs',
+		'Rust',
+		'Solidity',
 		'HTML',
 		'CSS',
 		'Gatsby',
@@ -45,11 +47,15 @@ const IndexPage = () => {
 					Hey, I&apos;m Matthew Nguyen 👋
 				</h1>
 				<p className="my-8 text-lg">
-					I am a passionate Full Stack Engineer, specialised in front-end
-					development using React and TypeScript. As an advocate for web
-					performance and accessibility and an evangelist for the Jamstack, I
-					create amazing web applications to make the internet a better place.
-					You can talk to me about{' '}
+					A seasoned Senior Blockchain Engineer with over 8 years of experience
+					in smart contract design, development, and web3 application
+					maintenance. Expert in leading projects ranging from innovative
+					startups to complex enterprise-level solutions in fast-paced
+					environments. Possesses a deep expertise in Solidity, TypeScript,
+					JavaScript, Python, and Rust, alongside proficiency in frameworks like
+					Truffle Suite and Hardhat. Known for delivering high-quality products,
+					keen on adopting the latest industry technologies and trends. You can
+					talk to me about{' '}
 					<Typed
 						loop
 						typeSpeed={80}

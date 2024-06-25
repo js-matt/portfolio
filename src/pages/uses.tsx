@@ -17,8 +17,8 @@ const UsesPage: NextPage = () => {
 				<p className="mt-4 mb-4 text-lg leading-7">
 					This is a list of tech equipment I currently use for my day-to-day
 					work as a software engineer. With the pandemic and a shift to working
-					fully remotely, I have upgraded a lot of my equipment in 2020 and
-					2021.
+					fully remotely, I have upgraded a lot of my equipment in 2022 and
+					2023.
 				</p>
 				<Image
 					layout="responsive"
